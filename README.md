@@ -1,3 +1,9 @@
+# Intruções para rodar o programa
+
+1. Crie um arquivo .env, com as seguintes váriáveis ambiêntes API_GET_URL e API_POST_URL como o que irá se diferênciar entre as duas URL's fornecidadas no desafio.
+2. Dentro da pasta do projeto rodar o comando yarn/npm auto-start
+3. No navegador acessar http://localhost:3333/send e conferir a resposta no terminal
+
 # codenation-cesar-crypto
 Resolver criptografia de cesar realizando requisições http
 
